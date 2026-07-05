@@ -1,0 +1,51 @@
+media:
+  input: posts
+  output: /posts
+
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: posts
+    subfolders: true
+    filename:
+      template: "{year}-{month}-{day}-{primary}/index.md"
+      field: create
+    format: yaml-frontmatter
+
+    fields:
+      - name: title
+        label: タイトル
+        type: string
+        required: true
+
+      - name: published_at
+        label: 公開日
+        type: date
+        required: true
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+
+      - name: category
+        label: カテゴリー
+        type: string
+        required: true
+
+      - name: tags
+        label: タグ
+        type: string
+        list: true
+        required: false
+
+      - name: draft
+        label: 下書き
+        type: boolean
+        required: false
+        default: false
+
+      - name: body
+        label: 本文
+        type: rich-text
+        options:
+          media: posts
