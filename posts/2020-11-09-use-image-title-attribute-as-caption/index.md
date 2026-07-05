@@ -1,11 +1,8 @@
 ---
-title: 画像のtitle属性をキャプションとして利用する
-date: 2020-11-09 15:00:00
-post_id: 6u9kwn
-categories:
-  - 開発
-tags:
-  - Hexo
+title: '画像のtitle属性をキャプションとして利用する'
+published_at: 2020-11-09 15:00:00
+category: '技術メモ'
+tags: ['Hexo']
 ---
 
 下のサイトで紹介されているtitle属性をキャプションに変換するアイデアが素晴らしかったので、参考にさせていただいた。

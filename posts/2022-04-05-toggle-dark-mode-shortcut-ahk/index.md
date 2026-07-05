@@ -1,11 +1,8 @@
 ---
-title: AutoHotkeyでWindows10をダークモードへ切り替える
-date: 2022-04-05 12:36:20
-categories:
-  - 開発
-tags:
-  - AutoHotkey
-  - Windows
+title: 'AutoHotkeyでWindows10をダークモードへ切り替える'
+published_at: 2022-04-05 12:36:20
+category: '技術メモ'
+tags: ['AutoHotkey', 'Windows']
 ---
 
 Windows10はシステムレベルでのダークモードに対応していますが、

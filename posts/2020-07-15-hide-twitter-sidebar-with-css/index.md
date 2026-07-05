@@ -1,12 +1,8 @@
 ---
-title: PC版Twitterの右カラム(トレンド、おすすめユーザー)を消すCSS
-date: 2020-07-15 15:00:00
-post_id: 7ze3ba
-categories:
-  - 開発
-tags:
-  - CSS
-  - ユーザーCSS
+title: 'PC版Twitterの右カラム(トレンド、おすすめユーザー)を消すCSS'
+published_at: 2020-07-15 15:00:00
+category: '技術メモ'
+tags: ['CSS', 'ユーザーCSS']
 ---
 
 Twitterは公式アカウントを情報収集目的で見るくらいで、他人の反応とかトレンドとか1ミリも興味ねえよ！って方向けの、PC版Twitterをカスタマイズする記事です。

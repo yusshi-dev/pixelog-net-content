@@ -1,10 +1,9 @@
 ---
-title: 9年続けたTwitterをやめた
-date: 2020-11-07 18:20:00
-post_id: g5njot
-categories:
-  - 雑記
-tags:
+title: '9年続けたTwitterをやめた'
+published_at: 2020-11-07 18:20:00
+category: '雑記'
+tags: []
+draft: true
 ---
 
 9年続けていたTwitterのアカウントを1ヶ月ほど前に削除した。

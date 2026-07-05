@@ -1,11 +1,8 @@
 ---
-title: SQLiteのSQL文メモ
-categories:
-  - 開発
-date: 2022-07-18 21:43:38
-tags:
-  - SQLite
-  - SQL
+title: 'SQLiteのSQL文メモ'
+category: '技術メモ'
+published_at: 2022-07-18 21:43:38
+tags: ['SQLite', 'SQL']
 ---
 
 ## タイムスタンプのカラムがあるテーブルを作成

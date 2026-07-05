@@ -1,12 +1,9 @@
 ---
-title: Hexoで記事の属するカテゴリー名を表示する
-date: 2020-07-16 19:06:45
+title: 'Hexoで記事の属するカテゴリー名を表示する'
+published_at: 2020-07-16 19:06:45
 updated: 2020-07-24 17:00:00
-post_id: ws5gwo
-categories:
-  - 開発
-tags:
-  - Hexo
+category: '技術メモ'
+tags: ['Hexo']
 ---
 
 Hexoでは記事の属するカテゴリー情報が`page.categories`に格納されています。この変数からカテゴリー名とURLを取り出しリンクを表示させる方法のメモ。<!-- more -->テンプレートエンジンはEJSです。

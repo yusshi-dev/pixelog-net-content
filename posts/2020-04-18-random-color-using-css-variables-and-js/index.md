@@ -1,13 +1,8 @@
 ---
-title: CSS変数とJavaScriptでページを開く度に色をランダムに変える
-date: 2020-04-18 17:46:30
-post_id: f25ads
-categories:
-  - 開発
-tags:
-  - Web制作
-  - JavaScript
-  - CSS
+title: 'CSS変数とJavaScriptでページを開く度に色をランダムに変える'
+published_at: 2020-04-18 17:46:30
+category: '技術メモ'
+tags: ['Web制作', 'JavaScript', 'CSS']
 ---
 
 サイトを開くたびに色が変わったらなんか面白いのでは？と、ふと思いついたので、JavaScriptでランダムに生成したカラーコードを、CSS変数に代入して遊んでみます。

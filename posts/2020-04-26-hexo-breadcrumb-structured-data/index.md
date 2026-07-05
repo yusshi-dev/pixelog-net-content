@@ -1,14 +1,9 @@
 ---
-title: Hexoでパンくずリストの構造化マークアップをする
-date: 2020-04-26 15:24:44
+title: 'Hexoでパンくずリストの構造化マークアップをする'
+published_at: 2020-04-26 15:24:44
 updated: 2020-07-30 15:00:00
-post_id: surt79
-categories:
-  - 開発
-tags:
-  - Hexo
-  - HTML
-  - EJS
+category: '技術メモ'
+tags: ['Hexo', 'HTML', 'EJS']
 ---
 
 <p class="alert">

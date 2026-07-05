@@ -1,11 +1,8 @@
 ---
-title: サイトに適用しているWebフォントを画像編集ソフトGIMPでSVG化する
-date: 2020-04-21 20:15:00
-post_id: 6f3b9h
-categories:
-  - 開発
-tags:
-  - Web制作
+title: 'サイトに適用しているWebフォントを画像編集ソフトGIMPでSVG化する'
+published_at: 2020-04-21 20:15:00
+category: '技術メモ'
+tags: ['Web制作']
 ---
 
 サイトのロゴやサイドバーのタイトルなどに、Google FontsでWebフォントを読み込み文字を装飾することがあるかと思います。

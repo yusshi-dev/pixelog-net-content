@@ -1,12 +1,8 @@
 ---
-title: Netlifyは大文字URLが使えない件とHexoを運用する上で確認すべき設定
-date: 2020-01-29 10:30:04
-post_id: 3dup8a
-categories:
-  - 開発
-tags:
-  - Hexo
-  - Netlify
+title: 'Netlifyは大文字URLが使えない件とHexoを運用する上で確認すべき設定'
+published_at: 2020-01-29 10:30:04
+category: '技術メモ'
+tags: ['Hexo', 'Netlify']
 ---
 
 このブログはNetlifyという静的サイトホスティングサービスを使って運用しているのですが、サイドバーに設置しているカテゴリー一覧の英字を含んだカテゴリーをクリックしたとき、毎回301リダイレクトが挟まることに気づきました。

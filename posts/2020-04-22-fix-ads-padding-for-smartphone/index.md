@@ -1,12 +1,8 @@
 ---
-title: スマホ表示時のGoogle Adsenseで左右に余白(padding)を適用する
-date: 2020-04-22 18:56:21
-post_id: evo9on
-categories:
-  - 開発
-tags:
-  - Web制作
-  - HTML
+title: 'スマホ表示時のGoogle Adsenseで左右に余白(padding)を適用する'
+published_at: 2020-04-22 18:56:21
+category: '技術メモ'
+tags: ['Web制作', 'HTML']
 ---
 
 Google Adsenseでレスポンシブタイプの広告ユニットは、デフォルトではスマホ版で表示した際に、横幅が100%になります。

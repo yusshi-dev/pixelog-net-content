@@ -1,11 +1,8 @@
 ---
-title: SE215のリケーブルにはYinyooのYYX4849がおすすめ
-date: 2020-04-19 21:38:36
-post_id: mfbt63
-categories:
-  - 雑記
-tags:
-  - レビュー
+title: 'SE215のリケーブルにはYinyooのYYX4849がおすすめ'
+published_at: 2020-04-19 21:38:36
+category: '雑記'
+tags: ['レビュー']
 ---
 
 ![ケーブル](img1.jpg)

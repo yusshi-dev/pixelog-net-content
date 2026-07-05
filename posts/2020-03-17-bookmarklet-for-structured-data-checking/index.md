@@ -1,12 +1,8 @@
 ---
-title: 開いているページの構造化マークアップを簡単にチェックするブックマークレット
-date: 2020-03-17 18:48:14
-post_id: gkma4r
-categories:
-  - 開発
-tags:
-  - JavaScript
-  - ブックマークレット
+title: '開いているページの構造化マークアップを簡単にチェックするブックマークレット'
+published_at: 2020-03-17 18:48:14
+category: '技術メモ'
+tags: ['JavaScript', 'ブックマークレット']
 ---
 
 Googleが提供しているツールに、[構造化データ テストツール](https://search.google.com/structured-data/testing-tool?hl=ja)というのがあり、URLを入力するだけでサイトの構造化マークアップを簡単にチェックすることができます。

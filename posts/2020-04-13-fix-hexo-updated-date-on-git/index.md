@@ -1,14 +1,8 @@
 ---
-title: HexoでGitとNetlifyを使っていても記事の更新日を表示できるようにする
-date: 2020-04-13 19:02:35
-post_id: js77yn
-categories:
-  - 開発
-tags:
-  - Hexo
-  - Git
-  - EJS
-  - Netlify
+title: 'HexoでGitとNetlifyを使っていても記事の更新日を表示できるようにする'
+published_at: 2020-04-13 19:02:35
+category: '技術メモ'
+tags: ['Hexo', 'Git', 'EJS', 'Netlify']
 ---
 
 Hexoで作成したブログで、記事の公開日だけでなく更新日も表示できるようにする方法のメモ。Netlifyで公開したときに更新日がおかしくなる問題も解決します。
@@ -61,10 +55,10 @@ use_date_for_updated: true
 
 ```yml
 ---
-title: hoge
-categories:
+title: 'hoge'
+category: ''
   - hage
-date: 2020-04-13 19:40:00
+published_at: 2020-04-13 19:40:00
 updated: 2020-04-14 08:00:00
 ---
 ```

@@ -1,12 +1,8 @@
 ---
-title: 複数のファイルを横断して文字列を一括で置き換えたい
-date: 2020-07-10 19:17:03
-post_id: ucwep9
-categories:
-  - 雑記
-tags:
-  - Node.js
-  - JavaScript
+title: '複数のファイルを横断して文字列を一括で置き換えたい'
+published_at: 2020-07-10 19:17:03
+category: '雑記'
+tags: ['Node.js', 'JavaScript']
 ---
 
 複数のテキストファイル（バイナリファイルの反対の意）に含まれる文字列を他の文字列に一括で置き換えたい場面って偶にありますよね。

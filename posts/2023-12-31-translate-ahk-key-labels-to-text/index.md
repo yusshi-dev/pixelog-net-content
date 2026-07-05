@@ -1,10 +1,8 @@
 ---
-title: AutoHotkeyでキーラベルからキーの名前に変換
-categories:
-  - 開発
-date: 2023-12-31 14:36:07
-tags:
-  - AutoHotkey
+title: 'AutoHotkeyでキーラベルからキーの名前に変換'
+category: '技術メモ'
+published_at: 2023-12-31 14:36:07
+tags: ['AutoHotkey']
 ---
 
 気づけば今年は一度もブログを書けていなかったので、大晦日に悪あがきでブログを更新...。ここ数日、ノートテイキングアプリをObsidianへの移行作業をしており、Markdownで文章を書く環境が整いつつあるので、来年は頻度を上げて更新できるかもしれません。

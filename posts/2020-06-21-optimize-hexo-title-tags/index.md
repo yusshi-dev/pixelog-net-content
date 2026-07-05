@@ -1,13 +1,9 @@
 ---
-title: Hexoのtitleタグを最適化する
-date: 2020-06-21 13:04:12
+title: 'Hexoのtitleタグを最適化する'
+published_at: 2020-06-21 13:04:12
 updated: 2020-07-30 17:30:00
-post_id: s3jvap
-categories:
-  - 開発
-tags:
-  - Hexo
-  - EJS
+category: '技術メモ'
+tags: ['Hexo', 'EJS']
 ---
 
 ブログのtitleタグをどのページとも被らないように設定するのは、カテゴリー・タグページやそれぞれの2ページ目などを加味していくと、意外に大変だったりします。

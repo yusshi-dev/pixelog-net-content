@@ -1,11 +1,8 @@
 ---
-title: AndroidのMarkdownエディタをいろいろ試してみる
-date: 2019-06-02 11:23:08
-post_id: 4oo9sh
-categories:
-  - 雑記
-tags:
-  - Android
+title: 'AndroidのMarkdownエディタをいろいろ試してみる'
+published_at: 2019-06-02 11:23:08
+category: '雑記'
+tags: ['Android']
 ---
 
 ## スマホでブログを書きたい

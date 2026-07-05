@@ -1,10 +1,8 @@
 ---
-title: AutoHotkeyでCapsLock(F13)とAltとjの組み合わせが特定のキーボードで動かない
-date: 2022-04-06 19:20:54
-categories:
-  - 開発
-tags:
-  - AutoHotkey
+title: 'AutoHotkeyでCapsLock(F13)とAltとjの組み合わせが特定のキーボードで動かない'
+published_at: 2022-04-06 19:20:54
+category: '技術メモ'
+tags: ['AutoHotkey']
 ---
 
 ChangeKeyやレジストリの直接編集でCapsLockをF13に割り当てているとき、CapsLock(F13) + Alt + jの組み合わせが反応しないという事象に遭遇しました。

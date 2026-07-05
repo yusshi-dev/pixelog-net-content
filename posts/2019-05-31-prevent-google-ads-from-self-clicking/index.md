@@ -1,13 +1,8 @@
 ---
-title: CSSとChrome拡張機能でGoogle Adsenseの自クリックを防止する【全サイト対応】
-date: 2019-05-31 21:40:05
-post_id: anbib4
-categories:
-  - 開発
-tags:
-  - CSS
-  - HTML
-  - ユーザーCSS
+title: 'CSSとChrome拡張機能でGoogle Adsenseの自クリックを防止する【全サイト対応】'
+published_at: 2019-05-31 21:40:05
+category: '技術メモ'
+tags: ['CSS', 'HTML', 'ユーザーCSS']
 ---
 
 Google Adsenseは自分で運営しているサイトに貼り付けた広告をクリックすることは規約で禁止しており、クリックするとペナルティを受けてしまいます。

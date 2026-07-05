@@ -1,14 +1,8 @@
 ---
-title: 【Swiper.js】縦横比を保ったまま横幅いっぱいのスライダーをつくる
-date: 2019-04-30 18:14:34
-post_id: u35xpq
-categories:
-  - 開発
-tags:
-  - Web制作
-  - JavaScript
-  - JSライブラリ
-  - HTML
+title: '【Swiper.js】縦横比を保ったまま横幅いっぱいのスライダーをつくる'
+published_at: 2019-04-30 18:14:34
+category: '技術メモ'
+tags: ['Web制作', 'JavaScript', 'JSライブラリ', 'HTML']
 ---
 
 [Swiper.js](https://idangero.us/swiper/)という、jQueryなしで動く高機能なライブラリがあります。

@@ -1,11 +1,8 @@
 ---
-title: AutoHotkeyでブラウザのカーソルブラウジングを完全に無効化する
-date: 2022-02-17 18:55:00
-post_id: disable-caret-browsing-with-ahk
-categories:
-  - 開発
-tags:
-  - AutoHotkey
+title: 'AutoHotkeyでブラウザのカーソルブラウジングを完全に無効化する'
+published_at: 2022-02-17 18:55:00
+category: '技術メモ'
+tags: ['AutoHotkey']
 ---
 
 ChromeやBraveなどのブラウザには、カーソルブラウジングという機能が備わっており、`F7`キーで有効にすると、点滅するキャレットを使ってブラウザを操作できます。

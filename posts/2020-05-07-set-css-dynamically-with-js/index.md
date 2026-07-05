@@ -1,13 +1,8 @@
 ---
-title: JavaScriptでCSSを動的にセットする方法2種 (styleタグ、style属性)
-date: 2020-05-07 19:26:43
-post_id: o3tidc
-categories:
-  - 開発
-tags:
-  - Web制作
-  - JavaScript
-  - CSS
+title: 'JavaScriptでCSSを動的にセットする方法2種 (styleタグ、style属性)'
+published_at: 2020-05-07 19:26:43
+category: '技術メモ'
+tags: ['Web制作', 'JavaScript', 'CSS']
 ---
 
 CSSを動的にセットしたいときに便利なJavaScriptの関数の雛形です。

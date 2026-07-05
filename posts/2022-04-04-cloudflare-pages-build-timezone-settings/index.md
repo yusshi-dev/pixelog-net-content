@@ -1,10 +1,8 @@
 ---
-title: Cloudflare Pagesでビルド環境のタイムゾーンを変更
-date: 2022-04-04 18:03:06
-categories:
-  - 開発
-tags:
-  - Cloudflare
+title: 'Cloudflare Pagesでビルド環境のタイムゾーンを変更'
+published_at: 2022-04-04 18:03:06
+category: '技術メモ'
+tags: ['Cloudflare']
 ---
 
 当ブログのホスティング先をGitHub PagesからCloudflare Pagesへ移行して、記事のパーマリンクを乱数ベースから日付時刻ベースへ変更したのですが、ローカル環境とCloudflareのタイムゾーンが違うせいでURLがずれてしまうので、Cloudflare Pagesのタイムゾーンを日本に変更します。

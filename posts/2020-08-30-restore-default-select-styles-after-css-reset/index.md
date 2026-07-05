@@ -1,12 +1,8 @@
 ---
-title: リセットCSSで消え去ったselectのスタイルを元に戻す
-date: 2020-08-30 15:38:38
-post_id: 9senxq
-categories:
-  - 開発
-tags:
-  - Web制作
-  - CSS
+title: 'リセットCSSで消え去ったselectのスタイルを元に戻す'
+published_at: 2020-08-30 15:38:38
+category: '技術メモ'
+tags: ['Web制作', 'CSS']
 ---
 
 リセットCSSといえば、destyle.cssとかnormalize.cssとかress.cssなどいろいろあります。

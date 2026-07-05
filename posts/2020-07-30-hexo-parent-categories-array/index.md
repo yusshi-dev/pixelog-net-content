@@ -1,13 +1,8 @@
 ---
-title: Hexoのカテゴリーページで親カテゴリーを配列で取得する
-date: 2020-07-30 15:41:41
-post_id: g0kb8m
-categories:
-  - 開発
-tags:
-  - Hexo
-  - JavaScript
-  - EJS
+title: 'Hexoのカテゴリーページで親カテゴリーを配列で取得する'
+published_at: 2020-07-30 15:41:41
+category: '技術メモ'
+tags: ['Hexo', 'JavaScript', 'EJS']
 ---
 
 Hexoには`page.category`という変数が用意されていて、カテゴリーページでカテゴリーの名前を出せるのですが、カテゴリーを階層化させているときに、そのカテゴリーが属する親カテゴリーの名前やURLを出す変数がありません。

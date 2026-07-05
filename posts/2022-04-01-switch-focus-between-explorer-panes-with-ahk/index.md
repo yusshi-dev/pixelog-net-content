@@ -1,11 +1,8 @@
 ---
-title: AutoHotkeyでエクスプローラーの左側と右側にフォーカスする
-date: 2022-04-01 18:53:32
-post_id: improve-usage-of-explorer-with-ahk
-categories:
-  - 開発
-tags:
-  - AutoHotkey
+title: 'AutoHotkeyでエクスプローラーの左側と右側にフォーカスする'
+published_at: 2022-04-01 18:53:32
+category: '技術メモ'
+tags: ['AutoHotkey']
 ---
 
 Windowsエクスプローラーではナビゲーションウィンドウ（左ペイン:フォルダ一覧）とコンテンツウィンドウ（右ペイン:ファイルが表示される場所）を移動するショートカットが割り当てられておらず、キーボードで操作するのが大変です。これをAutoHotkeyで解決します。

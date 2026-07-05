@@ -1,11 +1,8 @@
 ---
-title: 初めてのメカニカルキーボードにLogicool K835を買った感想
-date: 2022-04-03 17:10:00
-post_id: logicool-k835
-categories:
-  - 雑記
-tags:
-  - レビュー
+title: '初めてのメカニカルキーボードにLogicool K835を買った感想'
+published_at: 2022-04-03 17:10:00
+category: '雑記'
+tags: ['レビュー']
 ---
 
 今までキーボードにこだわりがなく、LogicoolのK295という安い静音タイプのメンブレンキーボードを使っていました。

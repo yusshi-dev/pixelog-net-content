@@ -1,10 +1,8 @@
 ---
-title: 30分で完了！お名前.comのドメインをGoogle Domainsへ移管する
-date: 2020-02-10 17:05:35
-post_id: uwu2t8
-categories:
-  - 開発
-tags:
+title: '30分で完了！お名前.comのドメインをGoogle Domainsへ移管する'
+published_at: 2020-02-10 17:05:35
+category: '技術メモ'
+tags: []
 ---
 このブログのドメインはお名前.comで取得していたのですが、先日ドメインを更新しようとしたら、netドメインが1,480円（1年）へ値上がりしていました。
 

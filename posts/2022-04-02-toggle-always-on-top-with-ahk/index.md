@@ -1,11 +1,8 @@
 ---
-title: AutoHotkeyでウィンドウを最前面に固定+トースト通知
-date: 2022-04-02 17:57:44
-post_id: pin-a-window-always-on-top-with-ahk
-categories:
-  - 開発
-tags:
-  - AutoHotkey
+title: 'AutoHotkeyでウィンドウを最前面に固定+トースト通知'
+published_at: 2022-04-02 17:57:44
+category: '技術メモ'
+tags: ['AutoHotkey']
 ---
 
 Windowsでウィンドウを最前面に固定する機能をAutoHotkeyで実現します。

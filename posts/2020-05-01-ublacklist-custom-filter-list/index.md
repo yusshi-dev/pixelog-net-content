@@ -1,10 +1,8 @@
 ---
-title: uBlacklist用のリスト購読URLを公開しました
-date: 2020-05-01 12:18:18
-post_id: ma5z69
-categories:
-  - 雑記
-tags:
+title: 'uBlacklist用のリスト購読URLを公開しました'
+published_at: 2020-05-01 12:18:18
+category: '雑記'
+tags: []
 ---
 
 Google Chromeに「[uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja)」という拡張機能があり、指定したドメインのサイトをGoogleの検索結果から排除することができます。

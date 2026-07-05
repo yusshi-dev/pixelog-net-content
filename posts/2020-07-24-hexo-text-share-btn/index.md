@@ -1,13 +1,8 @@
 ---
-title: Hexoにテキストリンクのシェアボタンを設置する
-date: 2020-07-24 16:44:18
-post_id: tqbozm
-categories:
-  - 開発
-tags:
-  - Hexo
-  - EJS
-  - HTML
+title: 'Hexoにテキストリンクのシェアボタンを設置する'
+published_at: 2020-07-24 16:44:18
+category: '技術メモ'
+tags: ['Hexo', 'EJS', 'HTML']
 ---
 
 Hexoのブログの記事下にシェアボタンを設置する方法。<!-- more -->現在このブログには、思想信条上の理由でシェアボタンは設置していないのですが...。

@@ -1,11 +1,8 @@
 ---
-title: Hexoでmarkdown-itを導入して記事内に脚注を書く
-date: 2020-04-28 13:18:38
-post_id: 5hnq2k
-categories:
-  - 開発
-tags:
-  - Hexo
+title: 'Hexoでmarkdown-itを導入して記事内に脚注を書く'
+published_at: 2020-04-28 13:18:38
+category: '技術メモ'
+tags: ['Hexo']
 ---
 
 HexoでMarkdownについていろいろ調べてみると、デフォルトで入っているhexo-renderer-markedの代わりにhexo-renderer-markdown-itを導入しているブログが多いようなんですね。

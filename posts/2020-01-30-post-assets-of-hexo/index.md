@@ -1,12 +1,8 @@
 ---
-title: Hexoで記事ごとに適用するCSSやJSファイルをFront-matterから自動で読み込む
-date: 2020-01-30 10:33:20
-post_id: mu72yx
-categories:
-  - 開発
-tags:
-  - Hexo
-  - EJS
+title: 'Hexoで記事ごとに適用するCSSやJSファイルをFront-matterから自動で読み込む'
+published_at: 2020-01-30 10:33:20
+category: '技術メモ'
+tags: ['Hexo', 'EJS']
 ---
 
 Hexoでブログを書いていると、記事ごとにCSSやJavaScriptを書いて読み込みたいと思うことがよくあります。
@@ -53,10 +49,10 @@ skip_render:
 
 
 ```plaintext
-title:
-categories:
+title: ''
+category: ''
 tags:
-date: 2020-01-30 10:33:20
+published_at: 2020-01-30 10:33:20
 css: true
 js: true
 ```

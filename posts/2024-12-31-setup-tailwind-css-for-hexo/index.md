@@ -1,7 +1,8 @@
 ---
-title: HexoのテーマでTailwind CSSを利用する
-date: 2024-12-31 12:21:10
-tags:
+title: 'HexoのテーマでTailwind CSSを利用する'
+published_at: 2024-12-31 12:21:10
+category: '技術メモ'
+tags: ['Tailwind CSS']
 ---
 
 HexoのテーマにTailwind CSSを利用する方法の覚え書き。

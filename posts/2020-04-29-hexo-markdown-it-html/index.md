@@ -1,12 +1,8 @@
 ---
-title: Hexoのmarkdon-itが脚注で出力するHTMLを整える
-date: 2020-04-29 09:00:00
-post_id: byfq2m
-categories:
-  - 開発
-tags:
-  - Hexo
-  - HTML
+title: 'Hexoのmarkdon-itが脚注で出力するHTMLを整える'
+published_at: 2020-04-29 09:00:00
+category: '技術メモ'
+tags: ['Hexo', 'HTML']
 ---
 
 Hexoのプラグイン、hexo-renderer-markdown-itでMarkdownをレンダリングした際、脚注の部分に下のようなHTMLがはき出されます。

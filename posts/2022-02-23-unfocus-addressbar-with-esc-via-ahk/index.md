@@ -1,11 +1,8 @@
 ---
-title: AutoHotkeyでEscでアドレスバーからフォーカスを外す
-date: 2022-02-23 14:26:00
-post_id: leave-address-bar-with-ahk
-categories:
-  - 開発
-tags:
-  - AutoHotkey
+title: 'AutoHotkeyでEscでアドレスバーからフォーカスを外す'
+published_at: 2022-02-23 14:26:00
+category: '技術メモ'
+tags: ['AutoHotkey']
 ---
 
 Chrome等のブラウザでは、アドレスバーにフォーカスした後Escでアドレスバーを離れることができないので、それをAutoHotkeyで解決する方法を紹介します。

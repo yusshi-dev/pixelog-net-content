@@ -1,10 +1,8 @@
 ---
-title: GsonでjsonのタイムスタンプをDate型に変換
-categories:
-  - 開発
-date: 2022-07-19 17:32:19
-tags:
-  - Java
+title: 'GsonでjsonのタイムスタンプをDate型に変換'
+category: '技術メモ'
+published_at: 2022-07-19 17:32:19
+tags: ['Java']
 ---
 
 以下のようなResultsetの`getTimestamp()`で取得したようなタイムスタンプを含むjsonを、GsonでDate型のフィールドを持つオブジェクトに変換する。

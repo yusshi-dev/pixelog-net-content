@@ -1,11 +1,8 @@
 ---
-title: Netlify Managed DNSでGoogle Search Consoleの認証をする
-date: 2019-03-16 16:29:18
-post_id: pjayu5
-categories:
-  - 開発
-tags:
-  - Netlify
+title: 'Netlify Managed DNSでGoogle Search Consoleの認証をする'
+published_at: 2019-03-16 16:29:18
+category: '技術メモ'
+tags: ['Netlify']
 ---
 Google Search Consoleではドメイン単位でサイトを追加する際にDNSにTXTレコードを追加して、ドメインの所有権を確認する必要があります。
 

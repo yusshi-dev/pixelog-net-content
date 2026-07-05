@@ -1,14 +1,9 @@
 ---
-title: Hexoでプラグインを使わずパンくずリストを表示する
-date: 2020-04-25 18:15:25
+title: 'Hexoでプラグインを使わずパンくずリストを表示する'
+published_at: 2020-04-25 18:15:25
 updated: 2020-07-30 15:00:00
-post_id: xzr273
-categories:
-  - 開発
-tags:
-  - Hexo
-  - HTML
-  - EJS
+category: '技術メモ'
+tags: ['Hexo', 'HTML', 'EJS']
 ---
 
 <p class="alert">

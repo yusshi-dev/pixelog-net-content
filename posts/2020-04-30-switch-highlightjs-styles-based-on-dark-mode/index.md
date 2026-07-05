@@ -1,13 +1,8 @@
 ---
-title: highlight.jsのスタイルをダークモードに応じて切り替える
-date: 2020-04-30 12:30:00
-post_id: 35szb9
-categories:
-  - 開発
-tags:
-  - Web制作
-  - JSライブラリ
-  - CSS
+title: 'highlight.jsのスタイルをダークモードに応じて切り替える'
+published_at: 2020-04-30 12:30:00
+category: '技術メモ'
+tags: ['Web制作', 'JSライブラリ', 'CSS']
 ---
 
 ページ上のコードにシンタックスハイライトを適用するのに、[highlight.js](https://highlightjs.org/)というプラグインがあります。

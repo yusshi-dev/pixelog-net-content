@@ -1,12 +1,8 @@
 ---
-title: Twitterでユーザーのツイートを検索しやくするブックマークレット
-date: 2020-09-06 15:01:51
-post_id: les7du
-categories:
-  - 開発
-tags:
-  - JavaScript
-  - ブックマークレット
+title: 'Twitterでユーザーのツイートを検索しやくするブックマークレット'
+published_at: 2020-09-06 15:01:51
+category: '技術メモ'
+tags: ['JavaScript', 'ブックマークレット']
 ---
 
 Twitterの検索は`from:ユーザー名`とすれば特定のユーザーのツイートに限定したり、`until:YYYY-MM-DD`とすれば期間を指定したりできる。これらのコマンドを使いやすくするブックマークレットを作った。

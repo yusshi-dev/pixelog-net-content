@@ -1,13 +1,8 @@
 ---
-title: CSSだけで文章を折りたたむ（続きを読む）その1
-date: 2019-06-06 21:38:40
-post_id: sh4gsv
-categories:
-  - 開発
-tags:
-  - Web制作
-  - HTML
-  - CSS
+title: 'CSSだけで文章を折りたたむ（続きを読む）その1'
+published_at: 2019-06-06 21:38:40
+category: '技術メモ'
+tags: ['Web制作', 'HTML', 'CSS']
 ---
 
 今回はHTMLとCSSのみでコンテンツの開閉、いわゆる「続きを読む」を再現してみます。

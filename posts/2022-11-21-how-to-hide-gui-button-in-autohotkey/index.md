@@ -1,10 +1,8 @@
 ---
-title: AutoHotkeyのGUIでボタンを隠す
-categories:
-  - 開発
-date: 2022-11-21 19:04:19
-tags:
-  - AutoHotkey
+title: 'AutoHotkeyのGUIでボタンを隠す'
+category: '技術メモ'
+published_at: 2022-11-21 19:04:19
+tags: ['AutoHotkey']
 ---
 
 AutoHotkeyのGUIでSubmitボタンを隠す方法。

@@ -1,11 +1,8 @@
 ---
-title: AutoHotkeyでEclipseの左ペインにフォーカス
-categories:
-  - 開発
-date: 2022-07-20 18:48:55
-tags:
-  - AutoHotkey
-  - Eclipse
+title: 'AutoHotkeyでEclipseの左ペインにフォーカス'
+category: '技術メモ'
+published_at: 2022-07-20 18:48:55
+tags: ['AutoHotkey', 'Eclipse']
 ---
 
 Eclipseはエディタ部分にフォーカスするショートカットキーが`F12`に割り当てられているが、プロジェクト・エクスプローラーなどが配置されている左側のペインにフォーカスするショートカットがデフォルトでは存在しない。

@@ -1,12 +1,8 @@
 ---
-title: CSS Gridでcodeブロックがある場合に横幅をはみ出してしまう現象の解決策
-date: 2020-11-08 11:45:26
-post_id: yetdfn
-categories:
-  - 開発
-tags:
-  - Web制作
-  - CSS
+title: 'CSS Gridでcodeブロックがある場合に横幅をはみ出してしまう現象の解決策'
+published_at: 2020-11-08 11:45:26
+category: '技術メモ'
+tags: ['Web制作', 'CSS']
 ---
 
 CSSのGridでレイアウトを組んでいて、グリッドアイテムにcodeブロックが含まれている場合に、横幅がGridの横幅をはみ出し制御できなくなる現象を解決する方法。

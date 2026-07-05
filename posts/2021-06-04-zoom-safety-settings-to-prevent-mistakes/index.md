@@ -1,10 +1,8 @@
 ---
-title: Zoomで誤爆しないために確認すべき設定
-date: 2021-06-04 10:23:57
-post_id: 3r2x8n
-categories:
-  - 雑記
-tags:
+title: 'Zoomで誤爆しないために確認すべき設定'
+published_at: 2021-06-04 10:23:57
+category: '雑記'
+tags: []
 ---
 
 Zoomでの授業や会議で誤爆しないためにチェックしておくべき設定項目のまとめ。

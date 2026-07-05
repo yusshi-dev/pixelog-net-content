@@ -1,11 +1,8 @@
 ---
-title: 高解像度デイスプレイでEclipseのUIを大きくする
-date: 2021-11-15 19:01:58
-post_id: w5Zjnc
-categories:
-  - 開発
-tags:
-  - Eclipse
+title: '高解像度デイスプレイでEclipseのUIを大きくする'
+published_at: 2021-11-15 19:01:58
+category: '技術メモ'
+tags: ['Eclipse']
 ---
 
 前回の更新から5ヶ月以上...もはや自分のブログの存在すら忘れていた...年末にかけて再始動していきたい。

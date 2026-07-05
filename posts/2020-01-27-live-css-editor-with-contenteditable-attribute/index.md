@@ -1,13 +1,8 @@
 ---
-title: contenteditable属性で入力したCSSがページにリアルタイムで反映されるフォームをつくる
-date: 2020-01-27 15:55:50
-post_id: nzj3d9
-categories:
-  - 開発
-tags:
-  - Web制作
-  - HTML
-  - CSS
+title: 'contenteditable属性で入力したCSSがページにリアルタイムで反映されるフォームをつくる'
+published_at: 2020-01-27 15:55:50
+category: '技術メモ'
+tags: ['Web制作', 'HTML', 'CSS']
 ---
 
 HTML5で追加された属性に`contenteditable`というものがあります。これを付けることで、あらゆる要素のテキストノードの編集が可能になります。ブラウザ版Twitterのツイート入力フォームもこの属性が使われています。

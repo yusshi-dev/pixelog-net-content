@@ -1,10 +1,8 @@
 ---
-title: RAREWAVES-JP(Amazonマーケットプレイス)でCDを買った
-date: 2020-11-11 18:56:11
-post_id: a4txye
-categories:
-  - 雑記
-tags:
+title: 'RAREWAVES-JP(Amazonマーケットプレイス)でCDを買った'
+published_at: 2020-11-11 18:56:11
+category: '雑記'
+tags: []
 ---
 
 AmazonマーケットプレイスでRAREWAVES-JPという海外の会社からCDを買った。名前にJPがつくので国内に支社がありそうだが、ロンドンから届いた。

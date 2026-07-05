@@ -1,12 +1,8 @@
 ---
-title: Gitで日付をコミットメッセージにして自動でリモートへプッシュする
-date: 2020-10-08 11:43:00
-post_id: 724hxi
-categories:
-  - 開発
-tags:
-  - Git
-  - PowerShell
+title: 'Gitで日付をコミットメッセージにして自動でリモートへプッシュする'
+published_at: 2020-10-08 11:43:00
+category: '技術メモ'
+tags: ['Git', 'PowerShell']
 ---
 
 Gitでステージングから、コミット、リモートまでの流れをPowerShellで自動化してみる。ゲームのセーブデータなどを保管するのに役立つ。

@@ -1,14 +1,8 @@
 ---
-title: クリックで開閉するドロップダウンメニューをCSSとJavaScriptで作ってみよう
-date: 2020-04-17 20:10:00
-post_id: rb8orj
-categories:
-  - 開発
-tags:
-  - Web制作
-  - JavaScript
-  - CSS
-  - HTML
+title: 'クリックで開閉するドロップダウンメニューをCSSとJavaScriptで作ってみよう'
+published_at: 2020-04-17 20:10:00
+category: '技術メモ'
+tags: ['Web制作', 'JavaScript', 'CSS', 'HTML']
 ---
 
 目に見えるところに貼るほど重要ではないけど、開閉メニューでリンクを格納しておきたいというケースがあるかと思います。

@@ -1,12 +1,8 @@
 ---
-title: HTMLだけでコンテンツを開閉できるdetailsタグを試してみる
-date: 2019-05-05 21:00:00
-post_id: rn7zja
-categories:
-  - 開発
-tags:
-  - Web制作
-  - HTML
+title: 'HTMLだけでコンテンツを開閉できるdetailsタグを試してみる'
+published_at: 2019-05-05 21:00:00
+category: '技術メモ'
+tags: ['Web制作', 'HTML']
 ---
 
 `<details>`タグはHTML5.1で追加されたタグで、コンテンツを開閉できるウィジェットを生成します。

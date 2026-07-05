@@ -1,13 +1,8 @@
 ---
-title: CSSアニメーションの開始位置をランダムにする
-date: 2020-11-08 12:27:11
-post_id: n2yg4u
-categories:
-  - 開発
-tags:
-  - Web制作
-  - CSS
-  - JavaScript
+title: 'CSSアニメーションの開始位置をランダムにする'
+published_at: 2020-11-08 12:27:11
+category: '技術メモ'
+tags: ['Web制作', 'CSS', 'JavaScript']
 ---
 
 CSSアニメーションはロード直後に0%から開始するが、ページを開いていつも同じ場所から始まるのはつまらないのでJavaScriptで開始位置をランダムにしてみる。

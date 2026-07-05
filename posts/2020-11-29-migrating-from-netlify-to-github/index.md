@@ -1,12 +1,8 @@
 ---
-title: ブログをNetlifyからGitHub Pagesへお引越し
-date: 2020-11-29 16:10:31
-post_id: fn8isc
-categories:
-  - 雑記
-tags:
-  - Netlify
-  - GitHub
+title: 'ブログをNetlifyからGitHub Pagesへお引越し'
+published_at: 2020-11-29 16:10:31
+category: '雑記'
+tags: ['Netlify', 'GitHub']
 ---
 
 今までNetlifyでホスティングしていたのをGitHub Pagesへ乗り換えました。作業時間は1～2時間ほどです。

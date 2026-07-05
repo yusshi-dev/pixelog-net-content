@@ -1,10 +1,8 @@
 ---
-title: Feedly・Inoreaderの購読ページのURLを生成
-date: 2020-11-19 15:55:47
-post_id: 37us5c
-categories:
-  - 開発
-tags:
+title: 'Feedly・Inoreaderの購読ページのURLを生成'
+published_at: 2020-11-19 15:55:47
+category: '技術メモ'
+tags: []
 ---
 
 FeedlyとInoreaderの購読ページのURLを生成するツールです。ページ先ではログインなしでそれぞれの購読者数を確認することもできます。

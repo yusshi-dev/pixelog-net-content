@@ -1,12 +1,8 @@
 ---
-title: Hexoで記事本文を抜粋表示する
-date: 2020-08-26 18:14:17
-post_id: gxdm60
-categories:
-  - 開発
-tags:
-  - Hexo
-  - EJS
+title: 'Hexoで記事本文を抜粋表示する'
+published_at: 2020-08-26 18:14:17
+category: '技術メモ'
+tags: ['Hexo', 'EJS']
 ---
 
 トップページなどで、記事タイトルの下に本文冒頭の数十文字が抜粋表示されているアレをHexoでも表示させる方法。

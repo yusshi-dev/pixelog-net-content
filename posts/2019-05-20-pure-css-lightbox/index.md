@@ -1,13 +1,8 @@
 ---
-title: CSSのみでクリックで画像を拡大する（Lightboxもどき）
-date: 2019-05-20 21:40:00
-post_id: kqkyf5
-categories:
-  - 開発
-tags:
-  - Web制作
-  - CSS
-  - HTML
+title: 'CSSのみでクリックで画像を拡大する（Lightboxもどき）'
+published_at: 2019-05-20 21:40:00
+category: '技術メモ'
+tags: ['Web制作', 'CSS', 'HTML']
 ---
 
 ![CSSのみでクリックで画像を拡大する](thumbnail.jpg)

@@ -1,11 +1,8 @@
 ---
-title: Hexoのアーカイブページの設定まとめ
-date: 2019-06-05 19:11:23
-post_id: q87e6x
-categories:
-  - 開発
-tags:
-  - Hexo
+title: 'Hexoのアーカイブページの設定まとめ'
+published_at: 2019-06-05 19:11:23
+category: '技術メモ'
+tags: ['Hexo']
 ---
 
 Hexoのアーカイブページの設定方法のまとめです。アーカイブページはhexo-generator-archiveというプラグインで生成されています。

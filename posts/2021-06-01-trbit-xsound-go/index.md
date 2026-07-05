@@ -1,11 +1,8 @@
 ---
-title: Tribit XSound Go (Bluetoothスピーカー) を2ヶ月使った感想
-date: 2021-06-01 23:30:00
-post_id: 04ay8c
-categories:
-  - 雑記
-tags:
-  - レビュー
+title: 'Tribit XSound Go (Bluetoothスピーカー) を2ヶ月使った感想'
+published_at: 2021-06-01 23:30:00
+category: '雑記'
+tags: ['レビュー']
 ---
 
 <a href="https://www.amazon.co.jp/gp/product/B075V4GJV1?ie=UTF8&psc=1&linkCode=li3&tag=pixelog04-22&linkId=64772a02af7fb79a961a1ad34206bfb7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075V4GJV1&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=pixelog04-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=pixelog04-22&language=ja_JP&l=li3&o=9&a=B075V4GJV1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -1,13 +1,8 @@
 ---
-title: HexoのショートコードでAmazonアソシエイトリンクを挿入
-date: 2020-11-15 15:15:29
-post_id: y7cfvk
-categories:
-  - 開発
-tags:
-  - Hexo
-  - JavaScript
-  - ブックマークレット
+title: 'HexoのショートコードでAmazonアソシエイトリンクを挿入'
+published_at: 2020-11-15 15:15:29
+category: '技術メモ'
+tags: ['Hexo', 'JavaScript', 'ブックマークレット']
 ---
 
 
