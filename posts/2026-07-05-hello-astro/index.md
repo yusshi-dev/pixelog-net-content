@@ -1,11 +1,8 @@
 ---
-title: ブログをAstroでリニューアル
-published_at: 2026-07-05T22:24:00Z
-category: 雑記
-tags:
-  - ブログ
-  - Astro
-draft: false
+title: 'ブログをAstroでリニューアル'
+published_at: 2026-07-05 22:24:00
+category: '雑記'
+tags: ['ブログ', Astro]
 ---
 気づけば1年半ぶりの更新になってしまいました。この度、ブログをAstroでリニューアルしました。
 
